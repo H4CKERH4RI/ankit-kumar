@@ -1,0 +1,8 @@
+{
+  "name": "Ankit Kumar Portfolio",
+  "description": "A premium professional portfolio for Ankit Kumar, Software Developer and Project Manager at softserv.in. Features modern UI/UX and an integrated AI assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
